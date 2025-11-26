@@ -1,0 +1,14 @@
+{
+  "model_type": "K-Nearest Neighbors",
+  "trained_samples": 200,
+  "n_neighbors": 20,
+  "metric": "euclidean",
+  "features": [
+    "latitude",
+    "longitude",
+    "rating",
+    "review_count",
+    "popularity",
+    "weighted_score"
+  ]
+}
